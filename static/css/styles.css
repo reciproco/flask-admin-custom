@@ -1,0 +1,23 @@
+a {
+        font-family: 'Roboto Condensed', sans-serif;
+}
+label {
+        font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+}
+
+#thname, #thsize, #thmodified {
+   cursor: pointer;
+}
+
+.redil-pointer {
+   cursor: pointer;
+
